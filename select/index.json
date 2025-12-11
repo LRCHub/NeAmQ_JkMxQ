@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "good night",
+  "base_artist": "明くる夜の羊",
+  "createdAt": "2025-12-11T06:20:40.821121Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On a Good Night",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/01_On_a_Good_Night_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On A Good Night (Album Version)",
+      "artist": "Wade Hayes",
+      "has_synced": true,
+      "path": "select/02_On_A_Good_Night_(Album_Version)_Wade_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Way You Say Good-Night",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/03_The_Way_You_Say_Good-Night_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Way You Said Good-Night",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/04_The_Way_You_Said_Good-Night_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Good Night - Mono Version; 2016 Remastered Version",
+      "artist": "Vera Lynn",
+      "has_synced": true,
+      "path": "select/05_Good_Night_-_Mono_Version;_2016_Remastered_Version_Vera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "Vera Lynn",
+      "has_synced": true,
+      "path": "select/06_Good_Night_Vera_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GOOD-NIGHT FOR YOU",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/07_GOOD-NIGHT_FOR_YOU_杏里.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "To All A Good Night",
+      "artist": "Arab Strap",
+      "has_synced": true,
+      "path": "select/08_To_All_A_Good_Night_Arab_Strap.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Night Irene",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/09_Good_Night_Irene_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Good_Night_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_Good_Night_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "« …Good Night, Goodbye » (feat. Ulver)",
+      "artist": "Carpenter Brut feat. Ulver",
+      "has_synced": false,
+      "path": "select/12_«_...Good_Night,_Goodbye_»_(feat._Ulver)_Carpenter_Brut_feat._Ulver.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "… Good Night, Goodbye",
+      "artist": "Carpenter Brut",
+      "has_synced": false,
+      "path": "select/13_..._Good_Night,_Goodbye_Carpenter_Brut.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Night Angel",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/14_Good_Night_Angel_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Night, Angel (Remastered 2018)",
+      "artist": "Louis Armstrong",
+      "has_synced": false,
+      "path": "select/15_Good_Night,_Angel_(Remastered_2018)_Louis_Armstrong.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Night",
+      "artist": "Denzel Curry feat. Twelve'len & Nell",
+      "has_synced": true,
+      "path": "select/16_Good_Night_Denzel_Curry_feat._Twelve'len_&_Nell.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Night (feat. Twelve'len & Nell)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/17_Good_Night_(feat._Twelve'len_&_Nell)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "good night",
+      "artist": "明くる夜の羊",
+      "has_synced": false,
+      "path": "select/pl_01_good_night_明くる夜の羊.txt"
+    }
+  ]
+}
